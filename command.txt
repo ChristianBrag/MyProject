@@ -1,0 +1,9 @@
+git init
+git config user.name nome da pessoa
+git config user.email e-mail da pessoa
+git add --all
+git commit -m "nome do que vai ter no commit"
+git branch
+git branch nome branch nova
+git checkout nome da branch q quero ir
+git merge branch q vai mandar o conteúdo = transfere o conteudo de uma branch pra outra
